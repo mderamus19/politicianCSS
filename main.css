@@ -1,0 +1,29 @@
+header, h2, {
+    color: white;
+
+
+}
+.repImage {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+
+
+}
+body {
+    background-color: darkblue;
+
+
+}
+.repCommittees {
+    border: 4px solid red;
+    background-color: white;
+}
+.enactedLegislation {
+    background-color: lightgray;
+    border: 4px solid red;
+
+
+
+
+}
